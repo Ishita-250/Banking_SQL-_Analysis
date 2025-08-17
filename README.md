@@ -29,15 +29,22 @@ The goal is to demonstrate practical SQL skills for data exploration, aggregatio
 📊 Key Insights from the Data
 
 
-Deposits by Gender → Female clients contribute more deposits compared to male clients.
-Nationality → Majority of clients are European.
-Onboarding Trend → The number of clients has been increasing every year, showing consistent growth.
-Branch Analysis →
-Private Bank has the highest property ownership value.
-Private Bank also has the largest number of clients.
-Risk Profile → The average risk weighting across all investment advisors is around 2 (low-to-moderate risk).
-Advisor Performance → Each investment advisor manages between 88–177 clients, indicating fairly distributed workloads.
-Gender Distribution by Branch → All branches (Retail, Private Bank, and others) have a higher number of female clients than male clients.
+-**Deposits by Gender → Female clients contribute more deposits compared to male clients.
+
+-**Nationality → Majority of clients are European.
+
+-**Onboarding Trend → The number of clients has been increasing every year, showing consistent growth.
+
+-**Branch Analysis →
+            -Private Bank has the highest property ownership value.
+            -Private Bank also has the largest number of clients.
+            
+-**Risk Profile → The average risk weighting across all investment advisors is around 2 (low-to-moderate risk).
+
+-**Advisor Performance → Each investment advisor manages between 88–177 clients, indicating fairly distributed workloads.
+
+-**Gender Distribution by Branch → All branches (Retail, Private Bank, and others) have a higher number of female clients than male clients.
+
 
 ---
 
